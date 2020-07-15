@@ -1,0 +1,30 @@
+{
+  "resto": [
+    {
+      "id": 1,
+      "name": "ABC Restaurant",
+      "Address": "Mumbai",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "XYZ Restaurant",
+      "Address": "Delhi",
+      "email": "xyz@gmail.com"
+    },
+    {
+      "name": "Snack Corner",
+      "Address": "Hyderabad",
+      "email": "aaa@gmail.com",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "vikasattavar",
+      "passowrd": "vikas@123",
+      "email": "vikas@123.com",
+      "id": 1
+    }
+  ]
+}
